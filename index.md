@@ -3,8 +3,8 @@ layout: default
 title: "Happy Jekylling!"
 ---
 
-## You're ready to go!
+## You're ready to go Tom!
 
-Start developing your Jekyll website.
+Get writing about singlespeeds...
 
-Testing, testing
+

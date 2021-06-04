@@ -16,9 +16,10 @@ a {
 /* header */
 
 .header {
-  background-color: #fff;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  background-color: $backgroundColor;
   position: fixed;
+  left:0px; 
+  top:0px;
   width: 100%;
   z-index: 3;
 }
@@ -142,4 +143,11 @@ a {
   .header .menu-icon {
     display: none;
   }
+}
+
+/* Main */
+
+main {
+  margin-top: 90px;
+  padding: 10px 20px;
 }

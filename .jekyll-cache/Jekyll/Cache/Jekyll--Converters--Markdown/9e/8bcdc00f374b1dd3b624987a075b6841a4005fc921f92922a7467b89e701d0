@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>ORNS • One Really Nice Speed</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-    <header class="header">
-    <a href="" class="logo">ORNS</a>
-    <input class="menu-btn" type="checkbox" id="menu-btn" />
-    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-    <ul class="menu">
-      <li><a href="#work">Our Work</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#careers">Careers</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-</header>
-    <img alt="ORNS" src="/assets/img/IMG_5815_1x.jpeg">
-    <main>
-      <p><img alt="One Really Nice Speed" src="/assets/img/IMG_5815_1x.jpeg" srcset="/assets/img/IMG_5815_1x.jpeg 400w, /assets/img/IMG_5815_1.5x.jpeg 600w, /assets/img/IMG_5815_2x.jpeg 800w, /assets/img/IMG_5815_3x.jpeg 1200w, /assets/img/IMG_5815_4x.jpeg 1600w" style="float: left" /></p>
+I"8<p><img src="/assets/img/IMG_5815.jpg" alt="One Really Nice Speed" style="float: left" /></p>
 <h2 id="youre-ready-to-go-tom">You’re ready to go Tom!</h2>
 
 <p>Get writing about singlespeeds…</p>
@@ -146,7 +124,4 @@ Get writing about singlespeeds…
 Get writing about singlespeeds…
 Get writing about singlespeeds…
 Get writing about singlespeeds…</p>
-
-    </main>
-  </body>
-</html>
+:ET

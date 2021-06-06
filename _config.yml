@@ -1,3 +1,7 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://onereallynicespeed.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 title: "One Really Nice Speed" # the name of your site, e.g. ACME Corp.
+
+sass:
+  sass_dir: _sass
+  style: compressed

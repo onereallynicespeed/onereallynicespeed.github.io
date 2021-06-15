@@ -5,3 +5,4 @@ title: "One Really Nice Speed" # the name of your site, e.g. ACME Corp.
 sass:
   sass_dir: _sass
   style: compressed
+permalink: /:categories/:title

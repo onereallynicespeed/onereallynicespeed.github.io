@@ -12,6 +12,6 @@ cover_image: "IMG_5815_1x.jpeg"
 			{% else %}
 			{% assign domain = site.url %}
 			{% endif %}
-				<li class="no-bottom"><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %} class="no-bottom">{{ link.title }}</a></li>
+				<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %} class="no-bottom">{{ link.title }}</a></li>
 			{% endfor %}
 	</ul>

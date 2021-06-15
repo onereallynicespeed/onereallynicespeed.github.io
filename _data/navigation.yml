@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Science
+  url: /science
+  
+- title: Insights
+  url: /insights
+
+- title: About
+  url: /about
